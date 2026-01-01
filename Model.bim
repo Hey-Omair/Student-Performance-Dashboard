@@ -1,5 +1,5 @@
 {
-  "name": "Noorisys_Final_Project",
+  "name": "Students_Performance_Tracker",
   "compatibilityLevel": 1567,
   "model": {
     "culture": "en-US",
@@ -5642,4 +5642,5 @@
       }
     ]
   }
+
 }
